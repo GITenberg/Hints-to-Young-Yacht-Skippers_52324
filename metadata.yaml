@@ -1,10 +1,13 @@
 _repo: Hints-to-Young-Yacht-Skippers_52324
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sheppard, Warren
     gutenberg_agent_id: '46792'
     url: http://www.gutenberg.org/2009/agents/46792
+covers:
+- cover_type: archival
+  image_path: 52324-h/images/cover.jpg
 creator:
   author:
     agent_name: Day, Thomas Fleming
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '42380'
     url: http://www.gutenberg.org/2009/agents/42380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52324#Hints-to-Young-Yacht-Skippers
 gutenberg_issued: '2016-06-13'
 gutenberg_type: Text
 identifiers:
