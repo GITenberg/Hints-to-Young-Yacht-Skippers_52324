@@ -1,0 +1,30 @@
+_repo: Hints-to-Young-Yacht-Skippers_52324
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sheppard, Warren
+    gutenberg_agent_id: '46792'
+    url: http://www.gutenberg.org/2009/agents/46792
+creator:
+  author:
+    agent_name: Day, Thomas Fleming
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '42380'
+    url: http://www.gutenberg.org/2009/agents/42380
+description: ''
+gutenberg_issued: '2016-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yachting'
+- !lcsh 'Sailing'
+- !lcc 'GV'
+- GITenberg
+title: Hints to Young Yacht Skippers
+url: http://www.gutenberg.org/ebooks/52324
